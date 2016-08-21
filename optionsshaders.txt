@@ -1,5 +1,5 @@
 #Sun Aug 21 12:35:13 CEST 2016
-shaderPack=MrMeepz Shaders v05 Medium.zip
+shaderPack=
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
