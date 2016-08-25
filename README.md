@@ -7,7 +7,7 @@
 3. Install!
 4. Play!
 
-Ist jetzt alles im Pack enthalten, Konfigurationen, Texturen, Server, usw.
+Ist jetzt alles im Pack enthalten, Konfigurationen, Texturen, Serveraddressen, usw.
 
 ## Performance und Problemlösungen
 
