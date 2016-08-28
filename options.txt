@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:16
+renderDistance:12
 guiScale:0
 particles:0
 bobView:true
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["mizunos16craft_11010229443.zip"]
+resourcePacks:["ConquestReforged.zip","MSI_conversion resourcepack for Minecraft 1.9.x.zip","Matmos Default resourcepack for Minecraft 1.9.x.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_US
