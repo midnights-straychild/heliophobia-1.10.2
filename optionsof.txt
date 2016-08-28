@@ -1,4 +1,4 @@
-ofRenderDistanceChunks:16
+ofRenderDistanceChunks:12
 ofFogType:1
 ofFogStart:0.8
 ofMipmapType:0
@@ -6,11 +6,11 @@ ofOcclusionFancy:false
 ofSmoothFps:true
 ofSmoothWorld:true
 ofAoLevel:1.0
-ofClouds:0
+ofClouds:3
 ofCloudsHeight:0.0
-ofTrees:0
-ofDroppedItems:0
-ofRain:0
+ofTrees:4
+ofDroppedItems:2
+ofRain:2
 ofAnimatedWater:0
 ofAnimatedLava:0
 ofAnimatedFire:true
@@ -37,7 +37,7 @@ ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
-ofVignette:0
+ofVignette:2
 ofChunkUpdates:2
 ofChunkUpdatesDynamic:false
 ofTime:0
@@ -50,7 +50,7 @@ ofSwampColors:true
 ofRandomMobs:true
 ofSmoothBiomes:true
 ofCustomFonts:true
-ofCustomColors:true
+ofCustomColors:false
 ofCustomItems:true
 ofCustomSky:true
 ofShowCapes:true
@@ -58,9 +58,9 @@ ofNaturalTextures:true
 ofLazyChunkLoading:true
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:3
+ofDynamicLights:2
 ofFullscreenMode:Default
 ofFastMath:true
 ofFastRender:false
-ofTranslucentBlocks:0
+ofTranslucentBlocks:2
 key_of.key.zoom:29

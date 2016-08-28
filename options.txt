@@ -11,10 +11,10 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
-renderClouds:true
+renderClouds:false
 resourcePacks:["ConquestReforged.zip","MSI_conversion resourcepack for Minecraft 1.9.x.zip","Matmos Default resourcepack for Minecraft 1.9.x.zip"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -87,6 +87,9 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
+key_key.ftbu.guide:0
+key_key.ftbu.light_values:65
+key_key.ftbu.chunk_border:67
 key_BloodMagic.keybind.openSigilHolding:35
 key_enderio.keybind.glidertoggle:34
 key_enderio.keybind.soundlocator:38
@@ -114,7 +117,6 @@ key_quark.emote.point:0
 key_quark.emote.shrug:0
 key_quark.emote.facepalm:0
 key_quark.emote.headbang:0
-key_key.stellarapi.focusgui.description:22
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.showRecipe:19
@@ -139,7 +141,16 @@ key_mod.chiselsandbits.other.pickbit:0
 key_mod.chiselsandbits.other.undo:0
 key_mod.chiselsandbits.other.redo:0
 key_mod.chiselsandbits.other.add_to_clipboard:0
-key_Dynamic Lights toggle:38
+key_key.craftingtweaks.rotate:19
+key_key.craftingtweaks.balance:48
+key_key.craftingtweaks.clear:46
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compressOne:37:CONTROL
+key_key.craftingtweaks.compressStack:37
+key_key.craftingtweaks.compressAll:37:SHIFT
+key_key.craftingtweaks.decompressOne:0
+key_key.craftingtweaks.decompressStack:0
+key_key.craftingtweaks.decompressAll:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
