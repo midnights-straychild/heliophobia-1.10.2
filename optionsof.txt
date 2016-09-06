@@ -61,6 +61,6 @@ ofAlternateBlocks:true
 ofDynamicLights:2
 ofFullscreenMode:Default
 ofFastMath:true
-ofFastRender:false
+ofFastRender:true
 ofTranslucentBlocks:2
 key_of.key.zoom:29
